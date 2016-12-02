@@ -33,7 +33,7 @@ This last method (`[]`) you've probably already seen in the lesson that covers A
 
 Even more interesting is that it still works if you use the more traditional method syntax - see for yourself by running the example below.
 
-```
+```ruby
 >> words = ["foo", "bar", "baz"]
 => ["foo", "bar", "baz"]
 >> words.[](1)
