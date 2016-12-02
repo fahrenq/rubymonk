@@ -38,4 +38,4 @@ One may also chain method invocations by simply adding more periods and method n
 
 The results you're looking at are the consequence of running a series of tests against your input to validate it. If you see results coloured red, this means one or more tests failed. Green means you're good to go.
 
-[next](https://github.com/Fahrenhei7/rubymonk/blob/master/ruby_primer/introduction_to_ruby_objects/0_1_more_objects_and_methods.md)
+[\[next\]](https://github.com/Fahrenhei7/rubymonk/blob/master/ruby_primer/introduction_to_ruby_objects/0_1_more_objects_and_methods.md)
