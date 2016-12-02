@@ -35,4 +35,6 @@ Try using a method that takes two arguments - use the `between?` method to deter
 => true
 ```
 
-[\[prev\]](https://github.com/Fahrenhei7/rubymonk/blob/master/ruby_primer/introduction_to_ruby_objects/0_0_introduction_to_objects.md) [\[next\]](https://github.com/Fahrenhei7/rubymonk/blob/master/ruby_primer/introduction_to_ruby_objects/0_2_syntactic_sugar_for_special_methods.md)
+[\[prev\]](https://github.com/Fahrenhei7/rubymonk/blob/master/ruby_primer/introduction_to_ruby_objects/0_0_introduction_to_objects.md) 
+[\[table of contents\]](https://github.com/Fahrenhei7/rubymonk/blob/master/README.md#ruby-primer)
+[\[next\]](https://github.com/Fahrenhei7/rubymonk/blob/master/ruby_primer/introduction_to_ruby_objects/0_2_syntactic_sugar_for_special_methods.md)
