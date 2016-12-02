@@ -42,4 +42,5 @@ Even more interesting is that it still works if you use the more traditional met
 
 This is a common pattern in Ruby - two different ways to do the same thing where one remains consistent and the other changes the syntax to be more programmer friendly.
 
-[\[prev\]](https://github.com/Fahrenhei7/rubymonk/blob/master/ruby_primer/introduction_to_ruby_objects/0_1_more_objects_and_methods.md) [\[table of contents\]](https://github.com/Fahrenhei7/rubymonk/blob/master/README.md#ruby-primer)
+[\[prev\]](https://github.com/Fahrenhei7/rubymonk/blob/master/ruby_primer/introduction_to_ruby_objects/0_1_more_objects_and_methods.md)
+[\[table of contents\]](https://github.com/Fahrenhei7/rubymonk/blob/master/README.md#ruby-primer)
