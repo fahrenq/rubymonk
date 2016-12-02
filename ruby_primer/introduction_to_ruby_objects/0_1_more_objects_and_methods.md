@@ -34,3 +34,5 @@ Try using a method that takes two arguments - use the `between?` method to deter
 >> 2.between? 1,3
 => true
 ```
+
+[\[prev\]](https://github.com/Fahrenhei7/rubymonk/blob/master/ruby_primer/introduction_to_ruby_objects/0_0_introduction_to_objects.md) [\[next\]](https://github.com/Fahrenhei7/rubymonk/blob/master/ruby_primer/introduction_to_ruby_objects/0_2_syntactic_sugar_for_special_methods.md)
