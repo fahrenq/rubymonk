@@ -1,5 +1,5 @@
 # RubyMonk
-> ALL RIGHTS BELONGS TO ORIGINAL AUTHORS https://twitter.com/ponnappa  and https://twitter.com/jasim_ab
+> ALL RIGHTS BELONGS TO ORIGINAL AUTHORS [Sidu Ponnappa](https://twitter.com/ponnappa)  and [Jasim A Basheer](https://twitter.com/jasim_ab)
 
 ## Ruby Primer
 - Introduction To Ruby Objects
