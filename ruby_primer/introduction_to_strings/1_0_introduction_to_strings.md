@@ -41,3 +41,7 @@ Test your intuition and try to change the code below to return the length of the
 ```
 
 That shouldn't have taxed your intuition too much! Let's move on to slightly more complex concepts.
+
+[\[prev\]](https://github.com/Fahrenhei7/rubymonk/blob/master/ruby_primer/introduction_to_ruby_objects/0_2_syntactic_sugar_for_special_methods.md)
+[\[table of contents\]](https://github.com/Fahrenhei7/rubymonk/blob/master/README.md#ruby-primer)
+[\[next\]](https://github.com/Fahrenhei7/rubymonk/blob/master/ruby_primer/introduction_to_strings/1_1_string_basics.md)
