@@ -44,3 +44,5 @@ This is a common pattern in Ruby - two different ways to do the same thing where
 
 [\[prev\]](https://github.com/Fahrenhei7/rubymonk/blob/master/ruby_primer/introduction_to_ruby_objects/0_1_more_objects_and_methods.md)
 [\[table of contents\]](https://github.com/Fahrenhei7/rubymonk/blob/master/README.md#ruby-primer)
+[\[next\]](https://github.com/Fahrenhei7/rubymonk/blob/master/ruby_primer/introduction_to_strings/1_0_introduction_to_strings.md)
+
