@@ -81,3 +81,7 @@ On a parting note, let us touch on an interesting method. When you encounter a m
 >> puts 'ThiS iS A vErY ComPlEx SenTeNcE'.swapcase
 tHIs Is a VeRy cOMpLeX sENtEnCe
 ```
+
+[\[prev\]](https://github.com/Fahrenhei7/rubymonk/blob/master/ruby_primer/introduction_to_strings/1_0_introduction_to_strings.md)
+[\[table of contents\]](https://github.com/Fahrenhei7/rubymonk/blob/master/README.md#ruby-primer)
+[\[next\]](https://github.com/Fahrenhei7/rubymonk/blob/master/ruby_primer/introduction_to_strings/1_2_advanced_string_operations.md)
