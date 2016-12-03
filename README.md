@@ -1,4 +1,6 @@
 # RubyMonk
+
+[![Join the chat at https://gitter.im/rubymonk-back/Lobby](https://badges.gitter.im/rubymonk-back/Lobby.svg)](https://gitter.im/rubymonk-back/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 > ALL RIGHTS BELONG TO ORIGINAL AUTHORS [Sidu Ponnappa](https://twitter.com/ponnappa)  and [Jasim A Basheer](https://twitter.com/jasim_ab)
 
 ## Ruby Primer
