@@ -1,4 +1,5 @@
 # RubyMonk
+[![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg?style=flat-square)](https://gitter.im/rubymonk-back/Lobby#)
 > ALL RIGHTS BELONG TO ORIGINAL AUTHORS [Sidu Ponnappa](https://twitter.com/ponnappa)  and [Jasim A Basheer](https://twitter.com/jasim_ab)
 
 ## Ruby Primer
