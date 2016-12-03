@@ -2,6 +2,8 @@
 [![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg?style=flat-square)](https://gitter.im/rubymonk-back/Lobby#)
 > ALL RIGHTS BELONG TO ORIGINAL AUTHORS [Sidu Ponnappa](https://twitter.com/ponnappa)  and [Jasim A Basheer](https://twitter.com/jasim_ab)
 
+Check out [CONTRIBUTING.md](https://github.com/Fahrenhei7/rubymonk/blob/master/CONTRIBUTING.md).
+
 ## Ruby Primer
 - Introduction To Ruby Objects
   - [00 Introduction to Objects](https://github.com/Fahrenhei7/rubymonk/blob/master/ruby_primer/introduction_to_ruby_objects/0_0_introduction_to_objects.md)
