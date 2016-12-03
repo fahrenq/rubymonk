@@ -9,7 +9,7 @@ Let's go!
 5. Create an issue according [this blueprint.](https://github.com/Fahrenhei7/rubymonk/issues/2)
 6. !IMPORTANT Wait until your proposal will be approved.
 7. Fork the repository.
-8. Start doing stuff according to [FORMATTING.md](https://github.com/Fahrenhei7/rubymonk/blob/master/FORMATTING.md).
+8. Start doing things according to [FORMATTING.md](https://github.com/Fahrenhei7/rubymonk/blob/master/FORMATTING.md).
 9. Once everything is ready - create pull request, linked with your issue.
 10. Feel the proud of youself. You are great!
 
