@@ -1,6 +1,8 @@
 - File naming: `rubymonk/#{book_name}/#{chapter_name}/#{paragraph_name}.md`.
 
-  For example: `rubymonk/ruby_primer/introduction_to_ruby_objects/00_introduction_to_objects.md`.
+  For example: `rubymonk/ruby_primer/introduction_to_strings/1_1_string_basics.md`.
+  
+  **Numbers in the name of markdown file equals first level header, not in the table of contents of book**
 - Keep heading convention according to this picture [![Selection_125.png](https://s11.postimg.org/3qxawadzn/Selection_125.png)](https://postimg.org/image/pdcbdbcjz/)
 - Every paragraph devided by empty line.
 - No empty lines after headings.
