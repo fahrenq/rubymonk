@@ -71,3 +71,6 @@ We covered the art of finding the position of a substring in a previous lesson, 
 As you can see in the output, the method just returns the first match rather than all the matches. In order to find further matches, we can pass a second argument to the match method. When the second parameter is present, it specifies the position in the string to begin the search. Let's find the second character in the string `'RubyMonk Is Pretty Brilliant'` preceded by a space, which should be `'P'`.
 
 All the complex use cases of this method involve more advanced Regular Expressions, which are outside the context of this lesson. However, on an ending note, if you ever choose to implement a parser, String#match might turn out to be a very good friend!
+
+[\[prev\]](https://github.com/Fahrenhei7/rubymonk/blob/master/ruby_primer/introduction_to_strings/1_1_string_basics.md)
+[\[table of contents\]](https://github.com/Fahrenhei7/rubymonk/blob/master/README.md#ruby-primer)
