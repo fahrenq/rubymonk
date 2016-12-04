@@ -74,3 +74,4 @@ All the complex use cases of this method involve more advanced Regular Expressio
 
 [\[prev\]](https://github.com/Fahrenhei7/rubymonk/blob/master/ruby_primer/introduction_to_strings/1_1_string_basics.md)
 [\[table of contents\]](https://github.com/Fahrenhei7/rubymonk/blob/master/README.md#ruby-primer)
+[\[next\]](https://github.com/Fahrenhei7/rubymonk/blob/master/ruby_primer/conditions_and_loops_control_structures_in_ruby/2_0_boolean_expressions_in_ruby.md)
