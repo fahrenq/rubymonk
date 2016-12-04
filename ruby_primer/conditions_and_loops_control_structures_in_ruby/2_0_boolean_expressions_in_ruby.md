@@ -41,3 +41,7 @@ Ruby lets you negate expressions using the `!` operator (read as 'not'). For ins
 ```
 
 Awesome! Now that you've learned the basics of writing boolean expressions in Ruby, let us see how we can use them to decide the flow of our application in the next lesson.
+
+[\[prev\]](https://github.com/Fahrenhei7/rubymonk/blob/master/ruby_primer/introduction_to_strings/1_2_advanced_string_operations.md)
+[\[table of contents\]](https://github.com/Fahrenhei7/rubymonk/blob/master/README.md#ruby-primer)
+[\[next\]](https://github.com/Fahrenhei7/rubymonk/blob/master/ruby_primer/conditions_and_loops_control_structures_in_ruby/2_1_the_if_else_construct.md)
