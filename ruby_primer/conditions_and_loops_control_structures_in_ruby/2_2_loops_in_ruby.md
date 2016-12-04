@@ -51,3 +51,7 @@ end
 ```
 
 We've only scratched the surface of the various ways in which Ruby lets you write loops. However, this should be enough for the most common use cases. Let us know if you need more!
+
+[\[prev\]](https://github.com/Fahrenhei7/rubymonk/blob/master/ruby_primer/conditions_and_loops_control_structures_in_ruby/2_1_the_if_else_construct.md)
+[\[table of contents\]](https://github.com/Fahrenhei7/rubymonk/blob/master/README.md#ruby-primer)
+<!-- [\[next\]]() -->
