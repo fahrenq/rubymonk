@@ -1,7 +1,7 @@
 - [ ] Ruby Primer
   - [x] Introduction To Ruby Objects
   - [x] Introduction to Strings
-  - [ ] Conditions and Loops: Control Structures in Ruby
+  - [x] Conditions and Loops: Control Structures in Ruby
   - [ ] Arrays in Ruby
   - [ ] Hashes in Ruby
   - [ ] Classes and Object Oriented Programming in Ruby
