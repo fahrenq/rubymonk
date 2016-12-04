@@ -62,3 +62,7 @@ In such cases, the objects `false` and `nil` equates to false. Every other objec
 >> end
 Hey, 0 is considered to be a truth in Ruby
 ```
+
+[\[prev\]](https://github.com/Fahrenhei7/rubymonk/blob/master/ruby_primer/conditions_and_loops_control_structures_in_ruby/2_0_boolean_expressions_in_ruby.md)
+[\[table of contents\]](https://github.com/Fahrenhei7/rubymonk/blob/master/README.md#ruby-primer)
+[\[next\]](https://github.com/Fahrenhei7/rubymonk/blob/master/ruby_primer/conditions_and_loops_control_structures_in_ruby/2_2_loops_in_ruby.md)
